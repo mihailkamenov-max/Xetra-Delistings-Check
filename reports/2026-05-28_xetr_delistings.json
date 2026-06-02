@@ -1,0 +1,16 @@
+{
+  "date": "2026-05-28",
+  "pending_deletion": [
+    {
+      "isin": "DE000A0JC8S7",
+      "name": "DATAGROUP SE  INH. O.N.",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-27",
+      "mnemonic": "",
+      "wkn": "000A0JC8S"
+    }
+  ],
+  "confirmed_removals": []
+}

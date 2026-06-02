@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-26",
+  "pending_deletion": [
+    {
+      "isin": "US09062X1037",
+      "name": "BIOGEN INC. DL -,0005",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-22",
+      "mnemonic": "",
+      "wkn": "000789617"
+    },
+    {
+      "isin": "US2521311074",
+      "name": "DEXCOM INC.       DL-,001",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-22",
+      "mnemonic": "",
+      "wkn": "000A0D9T1"
+    },
+    {
+      "isin": "US4523271090",
+      "name": "ILLUMINA INC.      DL-,01",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-22",
+      "mnemonic": "",
+      "wkn": "000927079"
+    },
+    {
+      "isin": "US55087P1049",
+      "name": "LYFT INC. CL.A -,00001",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-22",
+      "mnemonic": "",
+      "wkn": "000A2PE38"
+    },
+    {
+      "isin": "US74144T1088",
+      "name": "T.ROW.PR.GRP       DL-,20",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-22",
+      "mnemonic": "",
+      "wkn": "000870967"
+    }
+  ],
+  "confirmed_removals": [
+    {
+      "isin": "XS2651539681",
+      "name": "HARP ISSUER ETC 73",
+      "type": "ETC",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-21",
+      "mnemonic": "",
+      "wkn": "000A3G68A"
+    }
+  ]
+}

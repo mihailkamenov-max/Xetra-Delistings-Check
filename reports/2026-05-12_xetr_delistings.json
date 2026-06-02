@@ -1,0 +1,87 @@
+{
+  "date": "2026-05-12",
+  "pending_deletion": [
+    {
+      "isin": "IE00B7SD4R47",
+      "name": "WITR MU.AS.I.ESTX ETP2062",
+      "type": "ETN",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-08",
+      "mnemonic": "",
+      "wkn": "000A1VBKT"
+    },
+    {
+      "isin": "IE00B878KX55",
+      "name": "WITR MU.AS.I.LEVD.ETP2062",
+      "type": "ETN",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-08",
+      "mnemonic": "",
+      "wkn": "000A1VBKS"
+    },
+    {
+      "isin": "LU0321463506",
+      "name": "XTR.II IB.GE.CO.BD SW. 1C",
+      "type": "ETF",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-11",
+      "mnemonic": "",
+      "wkn": "000DBX0AX"
+    },
+    {
+      "isin": "LU0820950128",
+      "name": "XTR.II EUR COV.BD SWAP 1C",
+      "type": "ETF",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-11",
+      "mnemonic": "",
+      "wkn": "000DBX0ND"
+    },
+    {
+      "isin": "LU2641053827",
+      "name": "X2-I.E.G.B.Y.P 1CEOA",
+      "type": "ETF",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-11",
+      "mnemonic": "",
+      "wkn": "000DBX0T5"
+    },
+    {
+      "isin": "LU2823898353",
+      "name": "BNPPE-ESG E.EO CB1227 EOA",
+      "type": "ETF",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-11",
+      "mnemonic": "",
+      "wkn": "000A40HNG"
+    },
+    {
+      "isin": "IE00B7XD2195",
+      "name": "WITR MU.AS.I.SILV.ETP2062",
+      "type": "ETC",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-08",
+      "mnemonic": "",
+      "wkn": "000A1VBKL"
+    }
+  ],
+  "confirmed_removals": [
+    {
+      "isin": "DE000A11Q0C4",
+      "name": "MTU AERO ENGINES NA NEUE",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-07",
+      "mnemonic": "",
+      "wkn": "000A11Q0C"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-05-07",
+  "pending_deletion": [
+    {
+      "isin": "GB0031215220",
+      "name": "CARNIVAL PLC      DL 1,66",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-06",
+      "mnemonic": "",
+      "wkn": "000120071"
+    },
+    {
+      "isin": "IE000YUAPTQ0",
+      "name": "KRELVEFUMOSCR DLA",
+      "type": "ETF",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-05",
+      "mnemonic": "",
+      "wkn": "000A3DRNS"
+    }
+  ],
+  "confirmed_removals": []
+}

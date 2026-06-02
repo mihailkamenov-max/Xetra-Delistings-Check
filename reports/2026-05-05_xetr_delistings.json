@@ -1,0 +1,16 @@
+{
+  "date": "2026-05-05",
+  "pending_deletion": [
+    {
+      "isin": "NL0014332678",
+      "name": "JDE PEETS NV       EO-,01",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-04-30",
+      "mnemonic": "",
+      "wkn": "000A2P0E9"
+    }
+  ],
+  "confirmed_removals": []
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-04-28",
+  "pending_deletion": [],
+  "confirmed_removals": [
+    {
+      "isin": "DE000A3CM708",
+      "name": "SDM SE  INH O.N.",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-04-23",
+      "mnemonic": "",
+      "wkn": "000A3CM70"
+    }
+  ]
+}

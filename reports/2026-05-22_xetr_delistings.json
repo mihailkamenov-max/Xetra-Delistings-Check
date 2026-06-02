@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-22",
+  "pending_deletion": [
+    {
+      "isin": "DE000A41YCN8",
+      "name": "SGL CARBON SE O.N. NEUE",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-20",
+      "mnemonic": "",
+      "wkn": "000A41YCN"
+    },
+    {
+      "isin": "XS2651539681",
+      "name": "HARP ISSUER ETC 73",
+      "type": "ETC",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-21",
+      "mnemonic": "",
+      "wkn": "000A3G68A"
+    }
+  ],
+  "confirmed_removals": [
+    {
+      "isin": "DE000A40KY59",
+      "name": "AVEMIO AG NA O.N.",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-19",
+      "mnemonic": "",
+      "wkn": "000A40KY5"
+    }
+  ]
+}

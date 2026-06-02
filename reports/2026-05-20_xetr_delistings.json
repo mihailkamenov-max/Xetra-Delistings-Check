@@ -1,0 +1,26 @@
+{
+  "date": "2026-05-20",
+  "pending_deletion": [
+    {
+      "isin": "LU2572257041",
+      "name": "AIS-SHDDA1XIN U.ETFEOD",
+      "type": "ETF",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-18",
+      "mnemonic": "",
+      "wkn": "000ETF017"
+    },
+    {
+      "isin": "DE000A40KY59",
+      "name": "AVEMIO AG NA O.N.",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-05-19",
+      "mnemonic": "",
+      "wkn": "000A40KY5"
+    }
+  ],
+  "confirmed_removals": []
+}
