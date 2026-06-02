@@ -1,0 +1,16 @@
+{
+  "date": "2026-06-03",
+  "pending_deletion": [
+    {
+      "isin": "DE000A41YCP3",
+      "name": "DT.BETEILIG.AG NA NEUE",
+      "type": "CS",
+      "product_status": "Active",
+      "instrument_status": "PendingDeletion",
+      "last_trading_date": "2026-06-02",
+      "mnemonic": "",
+      "wkn": "000A41YCP"
+    }
+  ],
+  "confirmed_removals": []
+}
